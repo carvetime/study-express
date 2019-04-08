@@ -1,0 +1,24 @@
+{
+  "name": "study-express",
+  "version": "1.0.0",
+  "description": "study express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://carvetime@github.com/carvetime/study-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carvetime/study-express/issues"
+  },
+  "homepage": "https://github.com/carvetime/study-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
